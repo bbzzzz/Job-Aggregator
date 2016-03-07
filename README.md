@@ -1,5 +1,5 @@
 # Job-Aggregator
-This project collects job listing information from 4 major job search websites by web-scraping and API and aggregates search result within one output. 
+This project collects job listing information from 3 major job search websites (Monster, Indeed and LinkedIn) by web-scraping and API and aggregates search result within one output. 
 
 Python modules used:
 - pandas
